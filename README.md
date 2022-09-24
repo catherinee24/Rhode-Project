@@ -14,7 +14,7 @@
 
 # Purpose with which I did it: 🌈
 
-## `To practice topics on your own like:
+## To practice topics on your own like:
 ````
 Layout and styles on the website (HTML ✅ & CSS ✅)
 Advanced features of the JS project
@@ -24,7 +24,7 @@ Moment.js plugin ✅
 
 ````
 
-# How to use the box-slider so that your images look more dynamic and your page looks interactive.
+# How to use the box-slider so that your images look more dynamic and your page looks interactive. 🧷
 # Integrate jQuery into your code editor ✔✔
 
 ## [[Integrate jQuery!!]](https://releases.jquery.com/)
@@ -42,18 +42,18 @@ Then.. Paste this code into your Index.html file ⏬
 <!-- jquery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
-        <!-- bxSlider -->
+       <!-- bxSlider -->
         <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css"
         />
+        <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
 ```
 
 # Learn how to use the Moment.js plugin ❗❗❗
-## We use this plugin to create our clock ⏰
+### We use this plugin to create our clock ⏰
 ## [[Integrate Moment.js!!]](https://cdnjs.com/libraries/moment.js)
-
-```
 Once you enter the link Paste this code into your watch.html file ⏬
 
 ```
