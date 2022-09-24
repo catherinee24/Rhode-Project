@@ -12,10 +12,6 @@
 5️⃣Plugins
 ```
 
-# Purpose with which I did it: 💥
-
-## `To practice topics on your own like: `
-
 # Purpose with which I did it: 🌈
 
 ## `To practice topics on your own like:
