@@ -24,7 +24,23 @@ Moment.js plugin ✅
 
 ````
 
+# How to use the box-slider so that your images look more dynamic and your page looks interactive.
+
 # Learn how to use the Moment.js plugin ❗❗❗
+## We use this plugin to create our clock ⏰
+## [[Integrate Moment.js!!]](https://cdnjs.com/libraries/moment.js)
+
+```
+Once you enter the link Paste this code into your watch.html file ⏬
+
+```
+<!-- moment.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment-with-locales.min.js"></script>
+```
+
+🔸 Guide yourself from the repository if you feel a bit lost 🔸
+THAT'S IT YOU'RE READY TO WORK WITH jQuery LIBRARY 🔸
 
 # A little advice for you ❗❗❗
 
