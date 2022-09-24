@@ -25,6 +25,29 @@ Moment.js plugin ✅
 ````
 
 # How to use the box-slider so that your images look more dynamic and your page looks interactive.
+# Integrate jQuery into your code editor ✔✔
+
+## [[Integrate jQuery!!]](https://releases.jquery.com/)
+
+```
+Once you enter the link select this version ⏬
+
+jQuery 3.x
+jQuery Core 3.6.1 - minified
+```
+
+Then.. Paste this code into your Index.html file ⏬
+
+```
+<!-- jquery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+        <!-- bxSlider -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css"
+        />
+```
 
 # Learn how to use the Moment.js plugin ❗❗❗
 ## We use this plugin to create our clock ⏰
