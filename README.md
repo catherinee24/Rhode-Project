@@ -1,4 +1,4 @@
-# Applying my knowledge in HTML, CSS and JS? 🥇
+# Applying my knowledge in HTML5, CSS3, JavaScript, jQuery & Plugins 🎨
 
 ## live demo: 💥 https://magical-selkie-46c8a3.netlify.app/index.html 💥
 
@@ -8,6 +8,8 @@
 1️⃣HTML
 2️⃣CSS
 3️⃣JAVASCRIPT
+4️⃣jQuery
+5️⃣Plugins
 ```
 
 # Purpose with which I did it: 💥
@@ -16,10 +18,17 @@
 
 # Purpose with which I did it: 🌈
 
-## `To practice topics on your own like: `
+## `To practice topics on your own like:
+````
+Layout and styles on the website (HTML ✅ & CSS ✅)
+Advanced features of the JS project
+Contact form with validation ✅
+Clock with JavaScript ✅
+Moment.js plugin ✅
 
-# HTML ✅
-# CSS ✅
+````
+
+# Learn how to use the Moment.js plugin ❗❗❗
 
 # A little advice for you ❗❗❗
 
